@@ -1,0 +1,62 @@
+.div1 {
+    display: flex;
+    justify-content: space-between;
+
+}
+.div1 li:hover{
+    color: aqua;
+}
+
+div ul li {
+    color: grey;
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+}
+
+.div2 {
+    color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.div3 {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 150px;
+    color: grey;
+    font-size: larger;
+    
+}
+
+.divs {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 80px;
+
+}
+
+.div4 {
+    background-color: rgb(81, 119, 119);
+    margin: 20px;
+    border-radius: 5%;
+}
+
+.div5 {
+    background-color: rgb(73, 139, 214);
+    margin: 20px;
+    border-radius: 5%;
+}
+
+.div6 {
+    background-color: rgb(76, 67, 102);
+    margin: 20px;
+    border-radius:5%;
+}
+
+.chooseCountry {
+background-color: rgb(145, 177, 177);
+}
